@@ -1,0 +1,12 @@
+{
+  "name": "nomsbot",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "meteor-node-stubs": "~0.2.0",
+    "moment": "^2.13.0"
+  }
+}
